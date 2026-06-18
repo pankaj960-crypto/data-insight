@@ -1,5 +1,6 @@
 """DataInsight AI — FastAPI application entry point."""
 
+
 import logging
 from contextlib import asynccontextmanager
 from pathlib import Path
